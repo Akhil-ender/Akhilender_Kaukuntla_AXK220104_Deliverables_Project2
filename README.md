@@ -1,4 +1,4 @@
-# This is a Loan Approval System Model
+# This is a Loan Approval System 
 
 ## About the Dataset
 
